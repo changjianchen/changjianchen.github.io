@@ -1,4 +1,4 @@
-@article{chen2021oodanalyzer,
+@article{chen2021interactive,
   title={Interactive Graph Construction for Graph-Based Semi-Supervised Learning},
   author={Chen, Changjian and Wang, Zhaowei and Wu, Jing and Wang, Xiting and Guo, Lan-Zhe and Li, Yu-Feng and Liu, Shixia},
   journal={IEEE Transactions on Visualization and Computer Graphics},
