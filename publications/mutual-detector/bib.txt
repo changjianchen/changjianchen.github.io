@@ -1,6 +1,6 @@
-@article{chen2021interactive,
-  title={Interactive Graph Construction for Graph-Based Semi-Supervised Learning},
-  author={Chen, Changjian and Wang, Zhaowei and Wu, Jing and Wang, Xiting and Guo, Lan-Zhe and Li, Yu-Feng and Liu, Shixia},
+@article{chen2022towards,
+  title={Towards Better Caption Supervision for Object Detection},
+  author={Chen, Changjian and Wu, Jing and Wang, Xiaohan and Xiang, Shouxing and Zhang, Song-Hai and Tang, Qifeng and Liu, Shixia},
   journal={IEEE Transactions on Visualization and Computer Graphics},
   year={2022},
   note={to be published, \href{https://doi.org/10.1109/TVCG.2021.3138933}{doi: \textcolor{black}{10.1109/TVCG.2021.3138933}}}
