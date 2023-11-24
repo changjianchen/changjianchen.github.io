@@ -1,9 +1,0 @@
-@article{chen2022towards,
-  title={Towards Better Caption Supervision for Object Detection},
-  author={Chen, Changjian and Wu, Jing and Wang, Xiaohan and Xiang, Shouxing and Zhang, Song-Hai and Tang, Qifeng and Liu, Shixia},
-  journal={IEEE Transactions on Visualization and Computer Graphics},
-  year={2022},
-  volume={28},
-  number={4},
-  pages={1941--1954},
-}

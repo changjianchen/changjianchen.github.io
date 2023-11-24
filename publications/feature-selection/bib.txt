@@ -1,9 +1,0 @@
-@article{chen2020interactive,
-  title={An interactive feature selection method based on learning-from-crowds},
-  author={CHEN, Changjian and JIANG, Liu and LEI, Na and LIU, Shixia},
-  journal={SCIENTIA SINICA Informationis},
-  volume={50},
-  number={6},
-  pages={794--812},
-  year={2020}
-}

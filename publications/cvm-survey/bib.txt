@@ -1,9 +1,0 @@
-@article{yuan2021survey,
-  title={A Survey of Visual Analytics Techniques for Machine Learning},
-  author={Yuan, Jun and Chen, Changjian and Yang, Weikai and Liu, Mengchen and Xia, Jiazhi and Liu, Shixia},
-  journal={Computational Visual Media},
-  volume = {7},
-  number = {1},
-  year = {2021},
-  pages={3--36}
-}

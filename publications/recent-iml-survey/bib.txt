@@ -1,9 +1,0 @@
-@article{jiang2019recent,
-  title={Recent research advances on interactive machine learning},
-  author={Jiang, Liu and Liu, Shixia and Chen, Changjian},
-  journal={Journal of Visualization},
-  volume={22},
-  number={2},
-  pages={401--417},
-  year={2019}
-}
