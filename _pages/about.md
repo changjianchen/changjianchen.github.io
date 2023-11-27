@@ -38,7 +38,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 **Changjian Chen**, Yukai Guo, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu. 
 
-IEEE VIS (to be appear).
+IEEE VIS 2023 (also presented in IEEE Transactions on Visualization and Computer Graphics, 2024 Vol. 30(1): 1-11)
 
 [Video](http://uni-evaluator.thuvis.org/) \| [Code](http://uni-evaluator.thuvis.org/)
 </div>
@@ -53,7 +53,7 @@ IEEE VIS (to be appear).
 
 Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaonan Luo, Lingyun Yu, Shixia Liu. 
 
-IEEE VIS (to be appear).
+IEEE VIS 2023 (also presented in IEEE Transactions on Visualization and Computer Graphics, 2024 Vol. 30(1): 1-11)
 
 [Video](https://repo.vicayang.cc/Cluster_Aware_Grid_Layout/video.html) \| [Code](https://github.com/thu-vis/Cluster-Aware-Grid-Layout)
 </div>
@@ -68,7 +68,7 @@ IEEE VIS (to be appear).
 
 Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin Chen, Fengjie Wang, Min Zhu, Huamin Qu. 
 
-IEEE VIS (to be appear).
+IEEE VIS 2023 (also presented in IEEE Transactions on Visualization and Computer Graphics, 2024 Vol. 30(1): 1-11)
 
 </div>
 </div>
