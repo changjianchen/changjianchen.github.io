@@ -26,10 +26,26 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by PacificVis (Journal Track). 
 - *2023.10*: &nbsp;🎉🎉 I gave a gust talk at HKUST VIS lab. 
 - *2023.08*: &nbsp;🎉🎉 Three papers are accepted by IEEE VIS. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2024 (TVCG 2024)</div><img src='images/actlocalizer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Single-Frame Supervision for Better Temporal Action Localization](https://arxiv.org/abs/2308.05168)
+
+**Changjian Chen**, Jiashu Chen, Weikai Yang, Haoze Wang, Johannes Knittel, Xibin Zhao, Steffen Koch, Thomas Ertl, Shixia Liu.
+
+IEEE PacificVis 2024 (also presented in IEEE Transactions on Visualization and Computer Graphics)
+
+[Video](http://actlocalizer.thuvis.org/) \| [Code](http://uni-evaluator.thuvis.org/)
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/unievaluator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
