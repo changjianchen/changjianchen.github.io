@@ -26,9 +26,9 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
-- *2024.1*: &nbsp;🎉🎉 I gave a gust talk at BUPT VCIS lab. 
+- *2024.1*: &nbsp;🎉🎉 I gave a guest talk at BUPT VCIS lab. 
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by PacificVis (Journal Track). 
-- *2023.10*: &nbsp;🎉🎉 I gave a gust talk at HKUST VIS lab. 
+- *2023.10*: &nbsp;🎉🎉 I gave a guest talk at HKUST VIS lab. 
 - *2023.08*: &nbsp;🎉🎉 Three papers are accepted by IEEE VIS. 
 
 # 📝 Publications 
