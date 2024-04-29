@@ -35,7 +35,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CADCG</div><img src='images/actlocalizer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CADCG</div><img src='images/SC_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [面向超级计算机系统的可视化综述]([https://arxiv.org/abs/2308.05168](https://www.jcad.cn/cn/article/doi/10.3724/SP.J.1089.null.2023-00791))
