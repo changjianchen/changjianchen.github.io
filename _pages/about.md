@@ -26,12 +26,28 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
+- *2024.4*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE VIS 2024.
 - *2024.1*: &nbsp;🎉🎉 I gave a guest talk at BUPT VCIS lab. 
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted by PacificVis (Journal Track). 
 - *2023.10*: &nbsp;🎉🎉 I gave a guest talk at HKUST VIS lab. 
 - *2023.08*: &nbsp;🎉🎉 Three papers are accepted by IEEE VIS. 
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CADCG</div><img src='images/actlocalizer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[面向超级计算机系统的可视化综述]([https://arxiv.org/abs/2308.05168](https://www.jcad.cn/cn/article/doi/10.3724/SP.J.1089.null.2023-00791))
+
+吕斐, **陈长建**, 张嘉鹏, 冯冼, 唐卓.
+
+计算机辅助设计与图形学学报
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2024 (TVCG 2024)</div><img src='images/actlocalizer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
