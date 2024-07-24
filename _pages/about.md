@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant processor in Hunan University. I received my Ph.D. degree from <a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua University</a>, advised by Prof. <a href="http://shixialiu.com/">Shixia Liu</a>. 
-Before that, I reveived my B.S. in Electronic Engineering from <a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a>.
+I am an assistant professor at Hunan University. I received my Ph.D. degree from <a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua University</a>, advised by Prof. <a href="http://shixialiu.com/">Shixia Liu</a>. 
+Before that, I received my B.S. in Electronic Engineering from <a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a>.
 My research interest focuses on visual analytics and machine learning, especially visual analysis methods to improve training data quality.
 
 
