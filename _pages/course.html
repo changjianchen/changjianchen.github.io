@@ -1,1 +1,196 @@
-test
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CS05107: Algorithm Design and Analysis (Autumn-Winter 2024-2025)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        header, nav, section, footer {
+            margin-bottom: 20px;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: blue;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        table, th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        footer {
+            text-align: center;
+            font-size: 0.9em;
+            color: grey;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>CS05107: Algorithm Design and Analysis (Autumn-Winter 2024-2025)</h1>
+    <!-- <p><a href="http://staff.ustc.edu.cn/~lgliu/">Graphics/Geometric Computing Laboratory</a><br> -->
+    <a href="http://csee.hnu.edu.cn/">College of Computer Science and Electronic Engineering</a><br>
+    <p><a href="https://www.hnu.edu.cn/">Hunan University </a></p>
+</header>
+
+<hr>
+
+<nav style="text-align: center; font-size: large;">
+    <ul>
+        <li><a href="#announcements">Announcements</a></li>
+        <li><a href="#general">General</a></li>
+        <li><a href="#course-goals">Course Goals</a></li>
+        <li><a href="#texts">Texts</a></li>
+        <li><a href="#grading">Grading</a></li>
+        <li><a href="#syllabus">Syllabus</a></li><br>
+        <li><a href="#assignments">Assignments</a></li>
+        <li><a href="#requirements">Requirements on Assignments</a></li>
+        <li><a href="#conduct">Professional Conduct</a></li>
+        <li><a href="#teachingteam">Teaching Team</a></li>
+    </ul>
+</nav>
+
+
+<hr>
+<section id="announcements">
+    <h2>Announcements</h2>
+    <ul>
+        <li>2013.12.19: Examinations time: 09:50-11:50, Thursday, Dec 26, 2013.</li>
+        <li>2013.11.12: Homework #2 deadline is 23:59pm, Tuesday, Nov. 5, 2013.</li>
+        <li>2013.11.12: Homework #3 deadline is 23:59pm, Wednesday, Dec. 18, 2013.</li>
+        <li>2013.09.27: Homework #1 deadline is 23:59pm, Tuesday, Oct. 8, 2013.</li>
+        <li>2013.09.12: Course webpage has been updated for the following semester.</li>
+    </ul>
+</section>
+<hr>
+<section id="general">
+    <h2>General</h2>
+    <p><strong>Time:</strong> 周三 3-4节, 周五 3-4节<br>
+    <strong>Room:</strong> 数学科学学院南楼 1518<br>
+    <strong>Instructor:</strong> 刘利刚<br>
+    <strong>Credit:</strong> 2 学分<br>
+    <strong>Prerequisite:</strong> 高等数学、线性代数、程序设计、离散数学<br>
+    <!-- <strong>Webpage:</strong> <a href="http://staff.ustc.edu.cn/~lgliu/Courses/CAGD_2013_autumn-winter/default.htm">http://staff.ustc.edu.cn/~lgliu/Courses/CAGD_2013_autumn-winter/default.htm</a></p> -->
+</section>
+<hr>
+<section id="course-goals">
+    <h2>Course Goals</h2>
+    <p>The course will explore topics in Computer Aided Geometric Design, with an emphasis on the following:</p>
+    <ul>
+        <li>Parametric curves and surfaces</li>
+        <li>Subdivision methods</li>
+        <li>Knot theory</li>
+    </ul>
+</section>
+<hr>
+<section id="texts">
+    <h2>Texts</h2>
+    <p>参考书籍包括但不限于：</p>
+    <ul>
+        <li><a href="#">Farin, Curves and Surfaces for CAGD, Morgan Kaufmann Publishers, 2003. Download</a></li>
+        <li><a href="#">Gerald Farin, N. Sapidis, E. Schuster. Computer Aided Geometric Design, A K Peters/CRC Press, 1996. Download</a></li>
+    </ul>
+    <p>Readings: Various journal, conference, or WWW materials as appropriate.</p>
+</section>
+<hr>
+<section id="grading">
+    <h2>Grading</h2>
+    <p>Credit toward the semester grade will be allocated to each of the components as indicated in the following table.</p>
+    <table style="width:40%; margin: 0 auto; text-align: center; border-collapse: collapse;">
+        <tr>
+            <th>Assignments</th>
+            <th>Projects</th>
+            <th>Final Exam</th>
+        </tr>
+        <tr>
+            <td>40%</td>
+            <td>20%</td>
+            <td>40%</td>
+        </tr>
+    </table>
+    <p>Note: Final examination will be in-class, closed-book. More information will be provided prior to it.</p>
+</section>
+<hr>
+<section id="syllabus">
+    <h2>Syllabus</h2>
+    <p>Note: Here you view or download the notes that we use in class. DO NOT depend solely on these notes as many details are missing. You should read the textbook and take notes in class.</p>
+    <ul>
+        <li><a href="#">Chapter 1: 导论</a></li>
+        <li><a href="#">Chapter 2: 曲线曲面</a></li>
+        <li><a href="#">Chapter 3: 样条曲线</a></li>
+        <li><a href="#">Chapter 4: 样条曲面</a></li>
+        <li><a href="#">Chapter 5: NURBS</a></li>
+        <li><a href="#">Chapter 6: 自适应细分</a></li>
+        <li><a href="#">Chapter 7: 动态变形</a></li>
+        <li><a href="#">Chapter 8: 多面体</a></li>
+        <li><a href="#">Chapter 9: 几何处理</a></li>
+        <li><a href="#">Chapter 10: 实验设计</a></li>
+        <li><a href="#">Chapter 11: 高阶曲面</a></li>
+        <li><a href="#">Chapter 12: 算法</a></li>
+        <li><a href="#">Chapter 13: 逆向工程</a></li>
+        <li><a href="#">Chapter 14: 总结</a></li>
+        <li><a href="#">Download all .pdfs</a></li>
+    </ul>
+</section>
+<hr>
+<section id="assignments">
+    <h2>Assignments</h2>
+    <p>Homework</p>
+    <ul>
+        <li><a href="#">Homework #1, deadline is 23:59pm, Tuesday, Oct 8, 2013</a></li>
+        <li><a href="#">Homework #2, deadline is 23:59pm, Tuesday, Nov 5, 2013</a></li>
+        <li><a href="#">Homework #3, deadline is 23:59pm, Wednesday, Dec 18, 2013</a></li>
+    </ul>
+    <p>Projects</p>
+    <ul>
+        <li>Project1, deadline is ...</li>
+    </ul>
+</section>
+<hr>
+<section id="requirements">
+    <h2>Requirements on Assignments</h2>
+    <p>All students are expected to study the relevant portions of the textbook and handouts in conjunction with our class discussions (i.e., before coming to class). Explicit reading assignments will not always be given. All programming for this course will be done in C++ conforming to the standard coding styles.</p>
+    <p>Assignment Submission:</p>
+    <ul>
+        <li>All students are expected to complete their homework assignments by their due dates.</li>
+        <li>Submissions must be on time.</li>
+    </ul>
+</section>
+<hr>
+<section id="conduct">
+    <h2>Professional Conduct</h2>
+    <p>As a student in our class, you are expected to conduct yourself in a professional manner.</p>
+    <h3>Limited Collaboration Policy:</h3>
+    <p>Unless otherwise directed, all work for programming exercises given in this class will be individual assignments.</p>
+</section>
+<hr>
+<section id="teachingteam">
+    <h2>Teaching Team</h2>
+    <p>OpenGL:</p>
+    <ul>
+        <li><a href="http://www.opengl.org/">www.opengl.org</a></li>
+        <li><a href="#">OpenGL Programming Guide (Third Edition), by Dave Shreiner, Addison Wesley.</a></li>
+    </ul>
+</section>
+<hr>
+<footer>
+    <p>Send any comments or suggestions to Prof. Dr. Ligang Liu. Copyright &copy; 2013, Ligang Liu.</p>
+</footer>
+
+</body>
+</html>
