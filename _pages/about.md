@@ -26,6 +26,9 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
+- *2024.9*: &nbsp;🎉🎉 Invited as an Archive Chair for IEEE VIS 2025.
+- *2024.9*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE PacificVis (Journal Track) 2025.
+- *2024.4*: &nbsp;🎉🎉 One paper is accepted by CAD&CG.
 - *2024.4*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE VIS 2024.
 - *2024.2*: &nbsp;🎉🎉 Invited as a [Distinguished Reviewer](https://dl.acm.org/journal/tiis/editorial-board) for TiiS.
 - *2024.1*: &nbsp;🎉🎉 I gave a guest talk at BUPT VCIS lab. 
