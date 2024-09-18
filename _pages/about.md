@@ -28,6 +28,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 # 🔥 News
 - *2024.9*: &nbsp;🎉🎉 Invited as an Archive Chair for IEEE VIS 2025.
 - *2024.9*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE PacificVis (Journal Track) 2025.
+- *2024.7*: &nbsp;🎉🎉 Awarded Doctoral Dissertation Award of China Graphics Society
 - *2024.4*: &nbsp;🎉🎉 One paper is accepted by CAD&CG.
 - *2024.4*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE VIS 2024.
 - *2024.2*: &nbsp;🎉🎉 Invited as a [Distinguished Reviewer](https://dl.acm.org/journal/tiis/editorial-board) for TiiS.
@@ -234,6 +235,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-2
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2024,07* Doctoral Dissertation Award, China Graphics Society
 - *2022.06* Outstanding Graduates, School of Software, Tsinghua University.
 - *2021.09* First-class outstanding student scholarship, Tsinghua University.
 - *2020.09* First-class outstanding student scholarship, Tsinghua University.
