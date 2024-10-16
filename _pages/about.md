@@ -47,7 +47,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 吕斐, **陈长建**, 张嘉鹏, 冯冼, 唐卓.
 
-计算机辅助设计与图形学学报
+计算机辅助设计与图形学学报, 2024, Vol. 36(3): 321-335.
 
 </div>
 </div>
@@ -57,11 +57,11 @@ My research interest focuses on visual analytics and machine learning, especiall
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2024 (TVCG 2024)</div><img src='images/actlocalizer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Single-Frame Supervision for Better Temporal Action Localization](https://arxiv.org/abs/2308.05168)
+[Enhancing Single-Frame Supervision for Better Temporal Action Localization](https://arxiv.org/abs/2312.05178)
 
 **Changjian Chen**, Jiashu Chen, Weikai Yang, Haoze Wang, Johannes Knittel, Xibin Zhao, Steffen Koch, Thomas Ertl, Shixia Liu.
 
-IEEE PacificVis 2024 (also presented in IEEE Transactions on Visualization and Computer Graphics)
+IEEE PacificVis 2024 (also presented in IEEE Transactions on Visualization and Computer Graphics, 2024, Vol. 30(6): 2903-2915)
 
 [Video](http://actlocalizer.thuvis.org/) \| [Code](http://uni-evaluator.thuvis.org/)
 </div>
@@ -76,7 +76,7 @@ IEEE PacificVis 2024 (also presented in IEEE Transactions on Visualization and C
 
 **Changjian Chen**, Yukai Guo, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu. 
 
-IEEE VIS 2023 (also presented in IEEE Transactions on Visualization and Computer Graphics, 2024 Vol. 30(1): 1-11)
+IEEE VIS 2023 (also presented in IEEE Transactions on Visualization and Computer Graphics, 2024 Vol. 30(1): 76-86)
 
 [Video](http://uni-evaluator.thuvis.org/) \| [Code](http://uni-evaluator.thuvis.org/)
 </div>
@@ -91,7 +91,7 @@ IEEE VIS 2023 (also presented in IEEE Transactions on Visualization and Computer
 
 Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaonan Luo, Lingyun Yu, Shixia Liu. 
 
-IEEE VIS 2023 (also presented in IEEE Transactions on Visualization and Computer Graphics, 2024 Vol. 30(1): 1-11)
+IEEE VIS 2023 (also presented in IEEE Transactions on Visualization and Computer Graphics, 2024 Vol. 30(1): 240-250)
 
 [Video](https://repo.vicayang.cc/Cluster_Aware_Grid_Layout/video.html) \| [Code](https://github.com/thu-vis/Cluster-Aware-Grid-Layout)
 </div>
