@@ -42,14 +42,14 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/actlocalizer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/iadapt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[I-Adapt: Using IoU Adapter to Improve Pseudo Labels in Cross-Domain Object Detection]([https://arxiv.org/abs/2312.05178](https://ebooks.iospress.nl/volumearticle/69566))
+[I-Adapt: Using IoU Adapter to Improve Pseudo Labels in Cross-Domain Object Detection](https://ebooks.iospress.nl/volumearticle/69566)
 
 Qifeng Zhang, **Changjian Chen**, Zhizhong Liu, Zhuo Tang.
 
-European Conference on Artificial Intelligence, 2024, 57-64)
+European Conference on Artificial Intelligence, 2024, 57-64.
 
 </div>
 </div>
