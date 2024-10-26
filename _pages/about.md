@@ -26,6 +26,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
+- *2024.9*: &nbsp;🎉🎉 One paper is accepted by ECAI.
 - *2024.9*: &nbsp;🎉🎉 Invited as an Archive Chair for IEEE VIS 2025.
 - *2024.9*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE PacificVis (Journal Track) 2025.
 - *2024.7*: &nbsp;🎉🎉 Awarded Doctoral Dissertation Award of China Graphics Society
@@ -39,6 +40,21 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 # 📝 Publications 
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/actlocalizer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[I-Adapt: Using IoU Adapter to Improve Pseudo Labels in Cross-Domain Object Detection]([https://arxiv.org/abs/2312.05178](https://ebooks.iospress.nl/volumearticle/69566))
+
+Qifeng Zhang, **Changjian Chen**, Zhizhong Liu, Zhuo Tang.
+
+European Conference on Artificial Intelligence, 2024, 57-64)
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CADCG</div><img src='images/SC_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
