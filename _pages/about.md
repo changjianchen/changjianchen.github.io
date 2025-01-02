@@ -26,6 +26,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
+- *2024.9*: &nbsp;🎉🎉 One paper is accepted by IEEE TVCG.
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by ECAI.
 - *2024.9*: &nbsp;🎉🎉 Invited as an Archive Chair for IEEE VIS 2025.
 - *2024.9*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE PacificVis (Journal Track) 2025.
@@ -34,12 +35,23 @@ My research interest focuses on visual analytics and machine learning, especiall
 - *2024.4*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE VIS 2024.
 - *2024.2*: &nbsp;🎉🎉 Invited as a [Distinguished Reviewer](https://dl.acm.org/journal/tiis/editorial-board) for TiiS.
 - *2024.1*: &nbsp;🎉🎉 I gave a guest talk at BUPT VCIS lab. 
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by PacificVis (Journal Track). 
-- *2023.10*: &nbsp;🎉🎉 I gave a guest talk at HKUST VIS lab. 
-- *2023.08*: &nbsp;🎉🎉 Three papers are accepted by IEEE VIS. 
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2024</div><img src='images/RuleExplorer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RuleExplorer: A Scalable Matrix Visualization for Understanding Tree Ensemble Classifiers](https://arxiv.org/abs/2409.03164)
+
+Zhen Li; Weikai Yang; Jun Yuan; Jing Wu; **Changjian Chen**; Yao Ming; Fan Yang; Hui Zhang; Shixia Liu.
+
+IEEE Transactions on Visualization and Computer Graphics.
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECAI 2024</div><img src='images/iadapt.png' alt="sym" width="100%"></div></div>
