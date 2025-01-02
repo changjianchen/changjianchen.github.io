@@ -26,7 +26,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
-- *2024.9*: &nbsp;🎉🎉 One paper is accepted by IEEE TVCG.
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TVCG.
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by ECAI.
 - *2024.9*: &nbsp;🎉🎉 Invited as an Archive Chair for IEEE VIS 2025.
 - *2024.9*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE PacificVis (Journal Track) 2025.
@@ -68,7 +68,7 @@ European Conference on Artificial Intelligence, 2024, 57-64.
 
 <!-- ----------------------------------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CADCG</div><img src='images/SC_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CADCG 2024</div><img src='images/SC_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [面向超级计算机系统的可视化综述](https://www.jcad.cn/cn/article/Y2024/I3/321)
