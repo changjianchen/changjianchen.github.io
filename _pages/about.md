@@ -26,6 +26,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
+- *2025.1*: &nbsp;🎉🎉 One paper is accepted by IEEE PacificVis (Journal Track) 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TVCG.
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by ECAI.
 - *2024.9*: &nbsp;🎉🎉 Invited as an Archive Chair for IEEE VIS 2025.
@@ -38,6 +39,20 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2025 (TVCG 2025)</div><img src='images/DataCrafter.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Human-Guided Image Generation for Expanding Small-Scale Training Image Datasets](https://arxiv.org/abs/2412.16839)
+
+**Changjian Chen**, Fei Lv, Yalong Guan, Pengcheng Wang, Shengjie Yu, Yifan Zhang, Zhuo Tang.
+
+IEEE PacificVis 2025 (also presented in IEEE Transactions on Visualization and Computer Graphics, 2025).
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2024</div><img src='images/RuleExplorer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
