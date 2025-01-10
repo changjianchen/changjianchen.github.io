@@ -40,7 +40,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2025 (TVCG 2025)</div><img src='images/DataCrafter.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2025 (TVCG 2025)</div><img src='images/DataCrafter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Human-Guided Image Generation for Expanding Small-Scale Training Image Datasets](https://arxiv.org/abs/2412.16839)
