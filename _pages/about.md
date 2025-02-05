@@ -26,16 +26,17 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
+- *2025.2*: &nbsp;🎉🎉 Awarded the Outstanding Reviewer of CAD&CG.
 - *2025.1*: &nbsp;🎉🎉 One paper is accepted by IEEE PacificVis (Journal Track) 2025.
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by IEEE TVCG.
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by ECAI.
 - *2024.9*: &nbsp;🎉🎉 Invited as an Archive Chair for IEEE VIS 2025.
 - *2024.9*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE PacificVis (Journal Track) 2025.
-- *2024.7*: &nbsp;🎉🎉 Awarded Doctoral Dissertation Award of China Graphics Society
+- *2024.7*: &nbsp;🎉🎉 Awarded Doctoral Dissertation Award of China Graphics Society.
 - *2024.4*: &nbsp;🎉🎉 One paper is accepted by CAD&CG.
 - *2024.4*: &nbsp;🎉🎉 Invited as a Program Committee member for IEEE VIS 2024.
 - *2024.2*: &nbsp;🎉🎉 Invited as a [Distinguished Reviewer](https://dl.acm.org/journal/tiis/editorial-board) for TiiS.
-- *2024.1*: &nbsp;🎉🎉 I gave a guest talk at BUPT VCIS lab. 
+<!-- - *2024.1*: &nbsp;🎉🎉 I gave a guest talk at BUPT VCIS lab. -->
 
 # 📝 Publications 
 
@@ -278,28 +279,31 @@ IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-2
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024,07* Doctoral Dissertation Award, China Graphics Society
+- *2025,02* Outstanding Reviewer, CAD&CG.
+- *2024,07* Doctoral Dissertation Award, China Graphics Society.
 - *2022.06* Outstanding Graduates, School of Software, Tsinghua University.
 - *2021.09* First-class outstanding student scholarship, Tsinghua University.
 - *2020.09* First-class outstanding student scholarship, Tsinghua University.
-- *2019.09* Second-class outstanding student scholarship, Tsinghua University.
-- *2016.09* Seagate outstanding student scholarship, USTC.
-- *2015.09* Outstanding student scholarship (top-5 in Class of Excellence for Info. Tech.), USTC.
-- *2014.09* First-class outstanding student scholarship of USTC, USTC.
+<!-- - *2019.09* Second-class outstanding student scholarship, Tsinghua University. -->
+<!-- - *2016.09* Seagate outstanding student scholarship, USTC. -->
+<!-- - *2015.09* Outstanding student scholarship (top-5 in Class of Excellence for Info. Tech.), USTC. -->
+<!-- - *2014.09* First-class outstanding student scholarship of USTC, USTC. -->
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Services
-- **PC member**
-  - PacificVis (Journal Track, 2023)
+- **Archive Chairs**
+  - IEEE VIS (2025)
+- **PC Member**
+  - PacificVis (Journal Track, 2023, 2024)
   - IEEE VIS (2023, 2024)
   - ChinaVis (2022, 2023)
 - **Distinguished Reviewer**
   - TiiS (2024 - now)
-- **Reviewer** IEEE TVCG (2022, 2023), IEEE VIS (2021, 2022), CHI (2023), IUI (2022), JoVI (2020), AIIM (2022), ChinaVis (2018, 2019)
-- **Teach assistant** Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) 
+<!-- - **Reviewer** IEEE TVCG (2022, 2023), IEEE VIS (2021, 2022), CHI (2023), IUI (2022), JoVI (2020), AIIM (2022), ChinaVis (2018, 2019) -->
+<!-- - **Teach assistant** Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) -->
 
 # 💬 Invited Talks
 - *2024.1*, Guest talk @BUPT VCIS lab \| [\[link\]](https://mp.weixin.qq.com/s/MMZTls2gXJxQ0JwiJDB_Gg).
