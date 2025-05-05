@@ -41,6 +41,20 @@ My research interest focuses on visual analytics and machine learning, especiall
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/HCA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hierarchical Fuzzy-Cluster-Aware Grid Layout for Large-Scale Data](https://ieeexplore.ieee.org/document/10982129)
+
+Yuxing Zhou, **Changjian Chen**, Zhiyang Shen, Jiangning Zhu, Jiashu Chen, Weikai Yang, Shixia Liu.
+
+IEEE Transactions on Visualization and Computer Graphics, 2025.
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PacificVis 2025 (TVCG 2025)</div><img src='images/DataCrafter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -62,7 +76,7 @@ IEEE PacificVis 2025 (also presented in IEEE Transactions on Visualization and C
 
 Zhen Li; Weikai Yang; Jun Yuan; Jing Wu; **Changjian Chen**; Yao Ming; Fan Yang; Hui Zhang; Shixia Liu.
 
-IEEE Transactions on Visualization and Computer Graphics.
+IEEE Transactions on Visualization and Computer Graphics, 2025.
 
 </div>
 </div>
