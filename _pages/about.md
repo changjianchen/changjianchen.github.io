@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an assistant professor at Hunan University. I received my Ph.D. degree from <a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua University</a>, advised by Prof. <a href="http://shixialiu.com/">Shixia Liu</a>. 
+I am an associate professor at Hunan University. I received my Ph.D. degree from <a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua University</a>, advised by Prof. <a href="http://shixialiu.com/">Shixia Liu</a>. 
 Before that, I received my B.S. in Electronic Engineering from <a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a>.
 My research interest focuses on visual analytics and machine learning, especially visual analysis methods to improve training data quality.
 
@@ -26,6 +26,8 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
+- *2025.7*: &nbsp;🎉🎉 One paper about dataset expansion is accepted by ACM MM.
+- *2025.7*: &nbsp;🎉🎉 One paper about intelligent breeding is accepted by IEEE VIS.
 - *2025.4*: &nbsp;🎉🎉 One paper is accepted by IEEE TVCG.
 - *2025.2*: &nbsp;🎉🎉 Awarded the Outstanding Reviewer of CAD&CG.
 - *2025.1*: &nbsp;🎉🎉 One paper is accepted by IEEE PacificVis (Journal Track) 2025.
@@ -41,6 +43,30 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/Triplet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Small-Scale Dataset Expansion with Triplet-Connection-based Sample Re-Weighting](https://arxiv.org/abs/2508.07723)
+
+Ting Xiang, **Changjian Chen**, Zhuo Tang, Qifeng Zhang, Fei Lv, Li Yang, Jiapeng Zhang, Kenli Li.
+
+ACM MM, 2025.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2025</div><img src='images/HybridLens.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interactive Hybrid Rice Breeding with Parametric Dual Projection](https://www.arxiv.org/abs/2507.11848)
+
+**Changjian Chen**, Pengcheng Wang, Fei Lv, Zhuo Tang, Li Yang, Long Wang, Yong Cai, Feng Yu, Kenli Li.
+
+IEEE VIS, 2025.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/HCA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
