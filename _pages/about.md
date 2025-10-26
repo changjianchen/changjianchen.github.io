@@ -26,6 +26,7 @@ My research interest focuses on interactive machine learning, visual analytics, 
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 One paper about MLLM evaluation on Infographic charts is accepted by NeurIPS.
 - *2025.7*: &nbsp;🎉🎉 One paper about dataset expansion is accepted by ACM MM.
 - *2025.7*: &nbsp;🎉🎉 One paper about intelligent breeding is accepted by IEEE VIS.
 - *2025.4*: &nbsp;🎉🎉 One paper is accepted by IEEE TVCG.
@@ -42,6 +43,20 @@ My research interest focuses on interactive machine learning, visual analytics, 
 <!-- - *2024.1*: &nbsp;🎉🎉 I gave a guest talk at BUPT VCIS lab. -->
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/InfoChartQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InfoChartQA: A Benchmark for Multimodal Question Answering on Infographic Charts](https://arxiv.org/abs/2505.19028)
+
+Tianchi Xie, Minzhi Lin, Mengchen Liu, Yilin Ye, **Changjian Chen**, Shixia Liu.
+
+NeurIPS, 2025.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/Triplet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
