@@ -26,6 +26,7 @@ My research interest focuses on interactive machine learning, visual analytics, 
 
 
 # 🔥 News
+- *2026.4*: &nbsp;🎉🎉 One paper about Regulation-based Anomaly Detection is accepted by ACL.
 - *2025.10*: &nbsp;🎉🎉 One paper about MLLM evaluation on Infographic charts is accepted by NeurIPS.
 - *2025.7*: &nbsp;🎉🎉 One paper about dataset expansion is accepted by ACM MM.
 - *2025.7*: &nbsp;🎉🎉 One paper about intelligent breeding is accepted by IEEE VIS.
@@ -43,6 +44,18 @@ My research interest focuses on interactive machine learning, visual analytics, 
 <!-- - *2024.1*: &nbsp;🎉🎉 I gave a guest talk at BUPT VCIS lab. -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/RegValidator.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Integrating Data Validation with Large Language Models for Regulation-Guided Tabular Anomaly Detection](https://openreview.net/pdf?id=F8QavBZLyh)
+
+Haoliang Huang, Zihuang Cai, Zhuo Tang, Yifan Liu, Chen Tian, Kenli Li, **Changjian Chen**.
+
+ACL, 2026.
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/InfoChartQA.png' alt="sym" width="100%"></div></div>
