@@ -362,8 +362,9 @@ IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-2
 
 # 📖 Services
 -  **Associate Editor**
-  - Visual Informatics (Young AE)
-  - CAD&CG
+  - TiiS (2025 - now)
+  - Visual Informatics (Young AE, 2025 - now)
+  - CAD&CG (2025 - now)
 - **Archive Chairs**
   - IEEE VIS (2025-2026)
 - **Associate Chairs**
@@ -372,8 +373,6 @@ IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-2
   - PacificVis (Journal Track, 2023, 2024)
   - IEEE VIS (2023, 2024)
   - ChinaVis (2022, 2023)
-- **Distinguished Reviewer**
-  - TiiS (2024 - now)
 <!-- - **Reviewer** IEEE TVCG (2022, 2023), IEEE VIS (2021, 2022), CHI (2023), IUI (2022), JoVI (2020), AIIM (2022), ChinaVis (2018, 2019) -->
 <!-- - **Teach assistant** Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) -->
 
