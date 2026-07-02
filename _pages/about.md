@@ -22,8 +22,6 @@ Before that, I received my B.S. in Electronic Engineering from <a href="https://
 My research interest focuses on interactive machine learning, visual analytics, and data-centric AI.
 
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
 
 # 🔥 News
 - *2026.4*: &nbsp;🎉🎉 One paper about Regulation-based Anomaly Detection is accepted by ACL.
@@ -363,8 +361,13 @@ IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-2
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Services
+-  **Associate Editor**
+  - Visual Informatics (Young AE)
+  - CAD&CG
 - **Archive Chairs**
-  - IEEE VIS (2025)
+  - IEEE VIS (2025-2026)
+- **Associate Chairs**
+  - IUI (2025 - now)
 - **PC Member**
   - PacificVis (Journal Track, 2023, 2024)
   - IEEE VIS (2023, 2024)
